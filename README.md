@@ -116,5 +116,4 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 All files have been written in the Betty Style.
 
 ## Authors:
-**Nathaniel Emenike** - [Github](https://github.com/Githubnath) [emenikenathaniel55@gmail.com](mailto:emenikenathaniel55@gmail.com)
-**Ayuba Isah Molta** - [Github](https://github.com/Molta1) [Ayubamolta@gmail.com](mailto:Ayubamolta@gmail.com)
+Victor Nwachukwu - [Github](https://github.com/BishopCCC) [victor.nwachukwu2007gmail.com](mailto:victor.nwachukwu2007gmail.com)
